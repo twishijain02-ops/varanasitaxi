@@ -1,0 +1,6 @@
+{
+  "name": "Varanasi Taxi Service",
+  "description": "Premium taxi service in Varanasi for local sightseeing, airport transfers, and outstation trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

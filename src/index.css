@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Open+Sans:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-saffron: #F59E0B;
+  --color-saffron-600: #D97706;
+  --color-navy: #0F172A;
+  --color-navy-800: #1E293B;
+  --color-whatsapp: #25D366;
+  --color-whatsapp-600: #1DA851;
+  --font-sans: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+}
+
